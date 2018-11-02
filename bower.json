@@ -1,0 +1,24 @@
+{
+  "name": "parcel-polymer-repro",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Alex Van Camp <vancamp.alex@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "iron-flex-layout": "polymerelements/iron-flex-layout#^2.0.0",
+    "iron-selector": "polymerelements/iron-selector#^2.0.0",
+    "paper-button": "polymerelements/paper-button#^2.0.0",
+    "paper-styles": "polymerelements/paper-styles#^2.0.0"
+  }
+}
